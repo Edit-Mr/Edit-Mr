@@ -44,7 +44,7 @@ You can also call me Elvis Mao or EM
 <p>
   
 ![GitHub Snake Light](https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   
 <a href="https://github.com/Edit-Mr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edit-Mr&show_icons=true&theme=radical" />
