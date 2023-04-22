@@ -1,10 +1,11 @@
-<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/eden.png" align="right" width="300px">
+
 <div align=center>
 Hay there 👋 this is
   
 # [Edit Mr.](http://edit-mr.github.io)
 You can also call me Elvis Mao or EM
 </div>
+<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/eden.png" align="right" width="300px">
 
 ## 💻 &nbsp;About Me 
 *I'm a digital creator from Taiwan. I like to use technology to do all types of creations, such as paintings, music, graphic, and web design.*
