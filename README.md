@@ -10,7 +10,7 @@ You can also call me Elvis Mao or EM
 ## 💻 &nbsp;About Me 
 *I'm a digital creator from Taiwan. I like to use technology to do all types of creations, such as paintings, music, graphic, and web design.*
 - 🌎 &nbsp; Exploring new technologies and developing software solutions to make the world a better place.
-- 🎓 &nbsp; Studying at Shi-Yuan Senior High School. (Best thanks for the resources and opportunities❤)
+- 🎓 &nbsp; Studying at Shi-Yuan Senior High School.
 
 ## 💻 &nbsp;I'm working on
 - [EM's Tec Secrets](http://em-tec.github.io/) - My tech blog
