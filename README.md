@@ -29,7 +29,7 @@ You can also call me Elvis Mao or EM
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c#)
-  ![Python](https://img.shields.io/badge/-C%23-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
