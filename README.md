@@ -29,6 +29,7 @@ You can also call me Elvis Mao or EM
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c#)
+  ![Python](https://img.shields.io/badge/-C%23-333333?style=flat&logo=python)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -40,6 +41,7 @@ You can also call me Elvis Mao or EM
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
 
 ## My Stats
 <p>
