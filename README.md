@@ -16,8 +16,8 @@ You can also call me Elvis Mao or EM
 - [EM's Tec Secrets](http://em-tec.github.io/) - My tech blog
 - [EM's Base](https://edit-mr.github.io/) - All kinds of web creations
 - [ClipCC](https://github.com/Clipteam/clipcc-gui) - A powerful Scratch fork
-- [Furry Art in Taiwan](https://github.com/FurryArt-TW) - Art Portfolio
 - Translation for all kinds of app
+- [SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
 
 
 ## 🛠 &nbsp;Tech Stack
