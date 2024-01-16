@@ -2,8 +2,8 @@
 <div align=center>
 Hay there 👋 this is
   
-# [Edit Mr.](http://edit-mr.github.io)
-You can also call me Elvis Mao or EM
+# [Elvis Mao](http://elvismao.com)
+You can also call me EM
 </div>
 <img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/eden.png" align="right" width="300px">
 
