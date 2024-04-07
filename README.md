@@ -10,14 +10,15 @@ You can also call me EM, 毛哥EM
 ## 💻 &nbsp;About Me 
 *I'm a digital creator from Taiwan. I like to use technology to do all types of creations, such as paintings, music, graphic, and web design.*
 - 🌎 &nbsp; Exploring new technologies and developing software solutions to make the world a better place.
-- 🎓 &nbsp; Studying at Shi-Yuan Senior High School.
+- 🎓 &nbsp; Studying in Shi-Yuan Senior High School.
 
 ## 💻 &nbsp;I'm working on
 - [EM's Tec Secrets](http://em-tec.github.io/) - My tech blog
 - [EM's Base](https://edit-mr.github.io/) - All kinds of web creations
+- [SCAICT-uwu](https://github.com/SCAICT/SCAICT-uwu) - SCAICT Discord Bot
+- [SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
 - [ClipCC](https://github.com/Clipteam/clipcc-gui) - A powerful Scratch fork
 - Translation for all kinds of app
-- [SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
 
 
 ## 🛠 &nbsp;Tech Stack
