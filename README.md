@@ -13,10 +13,10 @@ You can also call me EM, 毛哥EM
 - 🎓 &nbsp; Studying in Shi-Yuan Senior High School.
 
 ## 💻 &nbsp;I'm working on
-- [EM's Tec Secrets](http://em-tec.github.io/) - My tech blog
+- [毛哥EM資訊密技](http://em-tec.github.io/) - My tech blog
 - [EM's Base](https://edit-mr.github.io/) - All kinds of web creations
-- [SCAICT-uwu](https://github.com/SCAICT/SCAICT-uwu) - SCAICT Discord Bot
-- [SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
+- [中電喵 SCAICT uwu](https://github.com/SCAICT/SCAICT-uwu) - SCAICT Discord Bot
+- [中電會 SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
 - [ClipCC](https://github.com/Clipteam/clipcc-gui) - A powerful Scratch fork
 - Translation for all kinds of app
 
