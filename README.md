@@ -1,6 +1,6 @@
 
 <div align=center>
-Hay there 👋 this is
+Hey there 👋 this is
   
 # [Elvis Mao](http://elvismao.com)
 You can also call me EM, 毛哥EM
