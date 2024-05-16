@@ -5,7 +5,7 @@ Hey there 👋 this is
 # [Elvis Mao](http://elvismao.com)
 You can also call me EM, 毛哥EM
 </div>
-<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/eden.png" align="right" width="300px">
+<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/avatar.PNG" align="right" width="300px">
 
 ## 💻 &nbsp;About Me 
 *I'm a digital creator from Taiwan. I like to use technology to do all types of creations, such as paintings, music, graphic, and web design.*
