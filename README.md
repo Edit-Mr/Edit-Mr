@@ -8,7 +8,8 @@ You can also call me EM, 毛哥EM
 <img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/avatar.PNG" align="right" width="250px" style=max-width:50vw;>
 
 ## 💻 &nbsp;About Me 
-*I'm a digital creator from Taiwan. I like to use technology to do all types of creations, such as paintings, music, graphic, and web design.*
+*I'm a 🌐Full Stack Developer, 🎨Digital Artist, and a 🎵Music Producer from Taiwan. I like to use technology to do all types of creations.
+
 - 🌎 &nbsp; Exploring new technologies and developing software solutions to make the world a better place.
 - 🎓 &nbsp; Studying in Shi-Yuan Senior High School.
 
