@@ -1,8 +1,8 @@
 <!-- @format -->
 
 <div align=center>
-Hey there <img src=hi.svg width=16px height=16px
-alt=👋> this is  
+Hey there <img src=hi.svg width=18px height=18px
+alt=👋 > this is  
 
 <a src=http://elvismao.com><img src=name.svg width=250px
 alt=👋></a>
