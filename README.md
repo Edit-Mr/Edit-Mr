@@ -20,12 +20,12 @@ _I'm a 🌐Full Stack Developer, 🎨Digital Artist, and a 🎵Music Producer fr
 
 ## 💻 &nbsp;I'm working on
 
--   [毛哥 EM 資訊密技](http://em-tec.github.io/) - My tech blog
--   [EM's Base](https://edit-mr.github.io/) - All kinds of website creations
 -   [emfont](https://emfont.emtech.cc/) - A free Chinese webfont service
 -   [emform](https://github.com/emform) - A open source self-hosting form website
 -   [中電喵 SCAICT uwu](https://github.com/SCAICT/SCAICT-uwu) - SCAICT Discord Bot
 -   [中電會 SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
+-   [毛哥 EM 資訊密技](http://em-tec.github.io/) - My tech blog
+-   [EM's Base](https://edit-mr.github.io/) - All kinds of website creations
 -   Translation for all kinds of app
 
 ## 🛠 &nbsp;Tech Stack
