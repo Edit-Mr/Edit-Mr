@@ -16,7 +16,7 @@ AKA EM, 毛哥EM
 _I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer from Taiwan. I like to use technology to do all types of creations._
 
 -   🌎 &nbsp; Exploring new technologies and developing software solutions to make the world a better place.
--   🎓 &nbsp; Studying in Shi-Yuan Senior High School. On the way to NYCU 🦊.
+-   🎓 &nbsp; Studying in Shi-Yuan Senior High School.
 
 ## 💻 &nbsp;I'm working on
 
@@ -24,8 +24,8 @@ _I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer
 -   [emform](https://github.com/Edit-Mr/emform) - A open source self-hosting form website
 -   [中電喵 SCAICT uwu](https://github.com/SCAICT/SCAICT-uwu) - SCAICT Discord Bot
 -   [中電會 SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
--   [毛哥 EM 資訊密技](http://em-tec.github.io/) - My tech blog
--   [EM's Base](https://edit-mr.github.io/) - All kinds of website creations
+-   [emtech]([https://emtech.cc](https://github.com/Edit-Mr/emtech)) - My tech blog, A static SPA blog generator
+-   [EM's Base](https://elvismao.com) - All kinds of website creations
 -   Translation for all kinds of app
 
 ## 🛠 &nbsp;Tech Stack
