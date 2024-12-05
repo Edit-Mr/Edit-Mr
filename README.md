@@ -21,10 +21,7 @@ _I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer
 ## 💻 &nbsp;I'm working on
 
 -   [emfont](https://github.com/emfont/emfont) - A free Chinese webfont service
--   [emform](https://github.com/Edit-Mr/emform) - A open source self-hosting form website
--   [中電喵 SCAICT uwu](https://github.com/SCAICT/SCAICT-uwu) - SCAICT Discord Bot
--   [中電會 SCAICT](https://github.com/SCAICT) - Student Club's Association of Information in Central Taiwan
--   [emtech]([https://emtech.cc](https://github.com/Edit-Mr/emtech)) - My tech blog, A static SPA blog generator
+-   [emtech](https://github.com/Edit-Mr/emtech) - My tech blog, A static SPA blog generator
 -   [EM's Base](https://elvismao.com) - All kinds of website creations
 -   Translation for all kinds of app
 
