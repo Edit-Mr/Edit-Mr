@@ -20,7 +20,6 @@ _I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer
 
 ## 💻 &nbsp;I'm working on
 
--   Getting a high school diploma
 -   [emfont](https://github.com/emfont/emfont) - A free Chinese webfont service
 -   [emtech](https://github.com/Edit-Mr/emtech) - My tech blog, A static SPA blog generator
 -   [EM's Base](https://elvismao.com) - All kinds of website creations
