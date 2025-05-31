@@ -2,12 +2,13 @@
 
 <div align=center>
 Hey there <img src=hi.svg width=18px height=18px
-alt=👋 > this is  
+alt=👋 > this is
 
 <a src=http://elvismao.com><img src=name.svg width=250px
 alt=👋></a>
 
-AKA EM, 毛哥EM
+AKA EM, 毛哥 EM
+
 </div>
 <img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/avatar.PNG" align="right" width="350px" style=max-width:50vw;>
 
@@ -25,7 +26,7 @@ _I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer
 -   [EM's Base](https://elvismao.com) - All kinds of website creations
 -   Translate all kinds of app
 
-<a href="https://www.buymeacoffee.com/elvismao"><img src="https://img.buymeacoffee.com/button-api/?text=Fuel me with Red Bull&slug=elvismao&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+[![Buy Me a Red Bull](https://img.buymeacoffee.com/button-api/?text=Fuel%20me%20with%20Red%20Bull&slug=elvismao&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/elvismao)
 
 ## 🛠 &nbsp;Tech Stack
 
