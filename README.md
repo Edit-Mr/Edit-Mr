@@ -16,14 +16,16 @@ AKA EM, 毛哥EM
 _I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer from Taiwan. I like to use technology to do all types of creations._
 
 -   🌎 &nbsp; Exploring new technologies and developing software solutions to make the world a better place.
--   🎓 &nbsp; Studying in Shi-Yuan Senior High School.
+-   🎓 &nbsp; Studying CS in NYCU.
 
-## 💻 &nbsp;I'm working on
+## 💻 &nbsp;OSS Project I'm working on
 
 -   [emfont](https://github.com/emfont/emfont) - A free Chinese webfont service
--   [emtech](https://github.com/Edit-Mr/emtech) - My tech blog, A static SPA blog generator
+-   [emtech](https://github.com/Edit-Mr/emtech) - My tech blog with a static SPA blog generator
 -   [EM's Base](https://elvismao.com) - All kinds of website creations
--   Translation for all kinds of app
+-   Translate all kinds of app
+
+<a href="https://www.buymeacoffee.com/elvismao"><img src="https://img.buymeacoffee.com/button-api/?text=Fuel me with Red Bull&slug=elvismao&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -43,7 +45,6 @@ _I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer
     ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
     ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-333333?style=flat&logo=google-cloud)
     ![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
-    ![Termux](https://img.shields.io/badge/-Termux-333333?style=flat&logo=termux)
 -   🔧 &nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
     ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-text)
