@@ -5,12 +5,12 @@ Hey there <img src=hi.svg width=18px height=18px
 alt=👋 > this is
 
 <a src=http://elvismao.com><img src=name.svg width=250px
-alt=👋></a>
+alt="Elvis Mao"></a>
 
 AKA EM, 毛哥 EM
 
 </div>
-<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/avatar.PNG" align="right" width="350px" style=max-width:50vw;>
+<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/avatar.webp" align="right" width="300px" style=max-width:50vw;>
 
 ## 💻 &nbsp;About Me
 
