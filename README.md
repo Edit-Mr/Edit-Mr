@@ -14,7 +14,7 @@ AKA EM, 毛哥 EM
 
 ## 💻 &nbsp;About Me
 
-_I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, and a 🎵 Music Producer from Taiwan. I like to use technology to do all types of creations._
+_I'm a 🌐 Full Stack Developer, 🎨 Digital Artist, 🎤 PF/WS Debater, and a 🎵 Music Producer from Taiwan. I like to use technology to do all types of creations._
 
 -   🌎 &nbsp; Exploring new technologies and developing software solutions to make the world a better place.
 -   🎓 &nbsp; Studying CS in NYCU.
