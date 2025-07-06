@@ -10,7 +10,7 @@ alt="Elvis Mao"></a>
 AKA EM, 毛哥 EM
 
 </div>
-<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/avatar.webp" align="right" width="300px" style=max-width:50vw;>
+<img src="https://raw.githubusercontent.com/Edit-Mr/Edit-Mr/main/avatar.webp" align="right" width="300px" style="max-width:50vw;transform: translateY(-5rem)">
 
 ## 💻 &nbsp;About Me
 
