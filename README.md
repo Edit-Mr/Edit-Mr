@@ -17,6 +17,7 @@ AKA EM, 毛哥 EM
 _I'm a 18y 🌐 Full Stack Developer, 🎨 Digital Artist, 🎤 PF/WS Debater, and a 🎵 Music Producer from Taiwan. I like to use technology to do all types of creations._
 
 -   🌎 &nbsp; Exploring new technologies and developing software solutions to make the world a better place.
+-   🅰️ &nbsp; Software Engineer at Justfont.
 -   🎓 &nbsp; Studying CS in NYCU.
 
 ## 💻 &nbsp;OSS Project I'm working on
